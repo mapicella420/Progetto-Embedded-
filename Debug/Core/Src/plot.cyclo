@@ -1,0 +1,6 @@
+../Core/Src/plot.c:15:6:init_graph	1
+../Core/Src/plot.c:23:6:add_point	6
+../Core/Src/plot.c:70:6:scrollLeft	5
+../Core/Src/plot.c:89:6:detect_peaks	4
+../Core/Src/plot.c:102:7:calculate_heart_rate	3
+../Core/Src/plot.c:114:7:calculate_hrv	5

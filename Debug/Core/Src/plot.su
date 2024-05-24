@@ -1,0 +1,6 @@
+../Core/Src/plot.c:15:6:init_graph	16	static
+../Core/Src/plot.c:23:6:add_point	96	static
+../Core/Src/plot.c:70:6:scrollLeft	32	static
+../Core/Src/plot.c:89:6:detect_peaks	32	static
+../Core/Src/plot.c:102:7:calculate_heart_rate	32	static
+../Core/Src/plot.c:114:7:calculate_hrv	80	dynamic
