@@ -55,7 +55,7 @@
 
 /* USER CODE BEGIN PV */
 Date_Time date;
-uint16_t data_out;
+uint16_t data_out; 
 PlotData graph;
 float peaks_x[MAX_POINTS];
 float peaks_y[MAX_POINTS];
